@@ -22,6 +22,10 @@ Linux (Ubuntu):
 
 ![](https://github.com/mackorone/mms-cpp/blob/master/config-linux.png)
 
+Macos:
+
+![](https://github.com/mackorone/mms-cpp/blob/master/mac simulator configuration.png)
+
 
 ## Notes
 
