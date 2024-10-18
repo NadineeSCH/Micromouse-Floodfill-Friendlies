@@ -24,7 +24,7 @@ Linux (Ubuntu):
 
 Macos:
 
-![](https://github.com/mackorone/mms-cpp/blob/master/mac simulator configuration.png)
+![](https://github.com/mackorone/mms-cpp/blob/master/config-mac.png)
 
 
 ## Notes
